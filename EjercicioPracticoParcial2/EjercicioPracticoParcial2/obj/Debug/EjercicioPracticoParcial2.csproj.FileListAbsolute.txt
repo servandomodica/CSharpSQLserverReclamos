@@ -1,0 +1,30 @@
+C:\issd\tp2\EjercicioPracticoParcial2\EjercicioPracticoParcial2\bin\Debug\EjercicioPracticoParcial2.exe.config
+C:\issd\tp2\EjercicioPracticoParcial2\EjercicioPracticoParcial2\bin\Debug\EjercicioPracticoParcial2.exe
+C:\issd\tp2\EjercicioPracticoParcial2\EjercicioPracticoParcial2\bin\Debug\EjercicioPracticoParcial2.pdb
+C:\issd\tp2\EjercicioPracticoParcial2\EjercicioPracticoParcial2\obj\Debug\EjercicioPracticoParcial2.csprojAssemblyReference.cache
+C:\issd\tp2\EjercicioPracticoParcial2\EjercicioPracticoParcial2\obj\Debug\EjercicioPracticoParcial2.Form1.resources
+C:\issd\tp2\EjercicioPracticoParcial2\EjercicioPracticoParcial2\obj\Debug\EjercicioPracticoParcial2.MantenimientoClientes.resources
+C:\issd\tp2\EjercicioPracticoParcial2\EjercicioPracticoParcial2\obj\Debug\EjercicioPracticoParcial2.Properties.Resources.resources
+C:\issd\tp2\EjercicioPracticoParcial2\EjercicioPracticoParcial2\obj\Debug\EjercicioPracticoParcial2.csproj.GenerateResource.cache
+C:\issd\tp2\EjercicioPracticoParcial2\EjercicioPracticoParcial2\obj\Debug\EjercicioPracticoParcial2.csproj.CoreCompileInputs.cache
+C:\issd\tp2\EjercicioPracticoParcial2\EjercicioPracticoParcial2\obj\Debug\EjercicioPracticoParcial2.exe
+C:\issd\tp2\EjercicioPracticoParcial2\EjercicioPracticoParcial2\obj\Debug\EjercicioPracticoParcial2.pdb
+C:\issd\tp2\EjercicioPracticoParcial2\EjercicioPracticoParcial2\obj\Debug\EjercicioPracticoParcial2.CargaReclamo.resources
+C:\issd\tp2\EjercicioPracticoParcial2\EjercicioPracticoParcial2\obj\Debug\EjercicioPracticoParcial2.ListadoReclamos.resources
+C:\issd\tp2\EjercicioPracticoParcial2\EjercicioPracticoParcial2\obj\Debug\EjercicioPracticoParcial2.ReclamosPorTecnico.resources
+C:\issd\tp2\EjercicioPracticoParcial2\EjercicioPracticoParcial2\obj\Debug\EjercicioPracticoParcial2.ReclamosPorCliente.resources
+F:\Servando\Office\Estudio\2020\2do semestre\ASC\Técnicas de progr 2\Proyectos\EjercicioPracticoParcial2\EjercicioPracticoParcial2\obj\Debug\EjercicioPracticoParcial2.csprojAssemblyReference.cache
+F:\Servando\Office\Estudio\2020\2do semestre\ASC\Técnicas de progr 2\Proyectos\EjercicioPracticoParcial2\EjercicioPracticoParcial2\obj\Debug\EjercicioPracticoParcial2.CargaReclamo.resources
+F:\Servando\Office\Estudio\2020\2do semestre\ASC\Técnicas de progr 2\Proyectos\EjercicioPracticoParcial2\EjercicioPracticoParcial2\obj\Debug\EjercicioPracticoParcial2.Form1.resources
+F:\Servando\Office\Estudio\2020\2do semestre\ASC\Técnicas de progr 2\Proyectos\EjercicioPracticoParcial2\EjercicioPracticoParcial2\obj\Debug\EjercicioPracticoParcial2.ListadoReclamos.resources
+F:\Servando\Office\Estudio\2020\2do semestre\ASC\Técnicas de progr 2\Proyectos\EjercicioPracticoParcial2\EjercicioPracticoParcial2\obj\Debug\EjercicioPracticoParcial2.MantenimientoClientes.resources
+F:\Servando\Office\Estudio\2020\2do semestre\ASC\Técnicas de progr 2\Proyectos\EjercicioPracticoParcial2\EjercicioPracticoParcial2\obj\Debug\EjercicioPracticoParcial2.Properties.Resources.resources
+F:\Servando\Office\Estudio\2020\2do semestre\ASC\Técnicas de progr 2\Proyectos\EjercicioPracticoParcial2\EjercicioPracticoParcial2\obj\Debug\EjercicioPracticoParcial2.ReclamosPorCliente.resources
+F:\Servando\Office\Estudio\2020\2do semestre\ASC\Técnicas de progr 2\Proyectos\EjercicioPracticoParcial2\EjercicioPracticoParcial2\obj\Debug\EjercicioPracticoParcial2.ReclamosPorTecnico.resources
+F:\Servando\Office\Estudio\2020\2do semestre\ASC\Técnicas de progr 2\Proyectos\EjercicioPracticoParcial2\EjercicioPracticoParcial2\obj\Debug\EjercicioPracticoParcial2.csproj.GenerateResource.cache
+F:\Servando\Office\Estudio\2020\2do semestre\ASC\Técnicas de progr 2\Proyectos\EjercicioPracticoParcial2\EjercicioPracticoParcial2\obj\Debug\EjercicioPracticoParcial2.csproj.CoreCompileInputs.cache
+F:\Servando\Office\Estudio\2020\2do semestre\ASC\Técnicas de progr 2\Proyectos\EjercicioPracticoParcial2\EjercicioPracticoParcial2\obj\Debug\EjercicioPracticoParcial2.exe
+F:\Servando\Office\Estudio\2020\2do semestre\ASC\Técnicas de progr 2\Proyectos\EjercicioPracticoParcial2\EjercicioPracticoParcial2\obj\Debug\EjercicioPracticoParcial2.pdb
+F:\Servando\Office\Estudio\2020\2do semestre\ASC\Técnicas de progr 2\Proyectos\EjercicioPracticoParcial2\EjercicioPracticoParcial2\bin\Debug\EjercicioPracticoParcial2.exe.config
+F:\Servando\Office\Estudio\2020\2do semestre\ASC\Técnicas de progr 2\Proyectos\EjercicioPracticoParcial2\EjercicioPracticoParcial2\bin\Debug\EjercicioPracticoParcial2.exe
+F:\Servando\Office\Estudio\2020\2do semestre\ASC\Técnicas de progr 2\Proyectos\EjercicioPracticoParcial2\EjercicioPracticoParcial2\bin\Debug\EjercicioPracticoParcial2.pdb
